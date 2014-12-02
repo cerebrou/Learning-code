@@ -26,3 +26,4 @@ model = svm_struct_learn(args, parm);
 %tests2
 
 % Hi, Kamil
+% ---
