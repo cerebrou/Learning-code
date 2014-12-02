@@ -23,6 +23,8 @@ parm.dimension = 3; % for feature_mss
 args = ' -c 1 -o 2 -v 3 -e 0.00002 -# 30 -w 3';  % HARG:0.001, dw:0.0003, sw:0.0001
 model = svm_struct_learn(args, parm);
 
+%anyoenghaseyo
+
 %tests2
 % conflict
 
@@ -32,3 +34,5 @@ model = svm_struct_learn(args, parm);
 >>>>>>> e90015eea38a601f8f02188757ca98b48fb88e68
 
 %adding something
+
+
