@@ -25,5 +25,7 @@ model = svm_struct_learn(args, parm);
 
 %tests2
 
-% Hi, Kamil
-% ---
+<<<<<<< HEAD
+=======
+%Hi Yumin
+>>>>>>> e90015eea38a601f8f02188757ca98b48fb88e68
