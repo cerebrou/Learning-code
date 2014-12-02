@@ -24,6 +24,7 @@ args = ' -c 1 -o 2 -v 3 -e 0.00002 -# 30 -w 3';  % HARG:0.001, dw:0.0003, sw:0.0
 model = svm_struct_learn(args, parm);
 
 %czesc
+%abc
 
 %anyoenghaseyo
 
