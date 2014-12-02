@@ -26,6 +26,8 @@ model = svm_struct_learn(args, parm);
 %czesc
 %abc
 
+%hello
+
 %anyoenghaseyo
 
 %tests2
