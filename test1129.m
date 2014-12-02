@@ -30,3 +30,5 @@ model = svm_struct_learn(args, parm);
 =======
 %Hi Yumin
 >>>>>>> e90015eea38a601f8f02188757ca98b48fb88e68
+
+%adding something
